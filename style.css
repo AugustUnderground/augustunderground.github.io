@@ -1,0 +1,39 @@
+html {
+    /*background-color: #0D0D0E;*/
+    background-color: #000000;
+    color: #DEDEE0;
+    font-family: monospace;
+    font-size: 11pt;
+}
+
+a:link { 
+    /*color: #7A002B;*/
+    color: #DEDEE0; 
+}
+
+a:visited { 
+    /*color: #4F4F4F;*/
+    text-decoration: line-through; 
+}
+
+table {
+    border: 1px solid #DEDEE0;
+    border-collapse: collapse;
+}
+
+table td { 
+    border-left: 1px solid #DEDEE0; 
+}
+
+div.notice {
+    font-size: 10px; 
+    font-style: italic;
+    color: #7A002B;
+}
+
+blockquote {
+    border-left: 3px solid #DEDEE0;
+    padding-left: 1em;
+    margin-left: 1em;
+}
+
