@@ -3,7 +3,13 @@ html {
     background-color: #000000;
     color: #DEDEE0;
     font-family: monospace;
-    font-size: 11pt;
+    font-size: 12pt;
+    max-width: 600px;
+    margin: auto;
+}
+
+p {
+    margin-left: 50px;
 }
 
 a:link { 
@@ -26,7 +32,7 @@ table td {
 }
 
 div.notice {
-    font-size: 10px; 
+    font-size: 12pt; 
     font-style: italic;
     color: #7A002B;
 }
