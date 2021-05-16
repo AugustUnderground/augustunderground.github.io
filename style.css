@@ -8,8 +8,20 @@ html {
     margin:           auto;
 }
 
+h3 {
+    text-transform: uppercase;
+}
+
 p {
     margin-left: 50px;
+}
+
+dl {
+    margin-left: 50px;
+}
+
+dt {
+    font-weight: bold;
 }
 
 a { 
@@ -21,16 +33,17 @@ a:visited {
     color: #4F4F4F;
 }
 
-table {
-    border:          2px solid #DEDEE0;
+table.footer {
+    border:          none;
     border-collapse: collapse;
-    margin-left:     1em;
+    width: 600px;
+    color:           #4F4F4F;
+    /*text-align:      center;*/
+    font-size:       10pt;
 }
 
-table td { 
-    border-left:   1px solid #DEDEE0;
-    padding-left:  1em;
-    padding-right: 1em;
+table.footer a {
+    color:           #4F4F4F;
 }
 
 div.notice {
@@ -49,4 +62,3 @@ blockquote {
     padding-left: 1em;
     margin-left:  1em;
 }
-
