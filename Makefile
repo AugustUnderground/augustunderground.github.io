@@ -9,7 +9,11 @@ website: $(TARGETS)
 
 
 $(TGT)/%.html: $(SRC)/%.md
-	pandoc -s $< -c $(RSC)/style.css -o ./$@
+	pandoc -s $< \
+		   --include-in-header $(RSC)/head.html \
+		   --include-after-body $(RSC)/foot.html \
+		   -c $(RSC)/style.css \
+		   -o ./$@
 
 clean:
 	rm -v $(TGT)/*.html

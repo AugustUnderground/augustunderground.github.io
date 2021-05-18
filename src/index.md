@@ -1,10 +1,5 @@
 ---
 title: AugustUnderground
-header-includes:
-    <meta name="description" content="A Cognitive Dissident."/>
-    <meta name="author" content="augustunderground"/>
-    <meta name="keywords" content="personal page"/>
-    <link rel="shortcut icon" type="image/jpg" href="rsc/penta.ico"/>
 ---
 
 <div class="notice">
@@ -33,11 +28,11 @@ working on machine learning methods for EDA. Free software and Unix enthusiast.
 
 ### contact
 
-Yannick Uhlmann<br>
-Reutlingen, Germany<br>
-mail: <a href="mailto:augustunderground@protonmail.com">augustunderground@pm.me</a><br>
-mastodon: <a href="https://fosstodon.org/@augustunderground">@augustunderground</a><br>
-matrix: @augustunderground:matrix.org<br>
+Yannick Uhlmann  
+Reutlingen, Germany  
+mail: [augustunderground@pm.me](mailto:augustunderground@protonmail.com)  
+mastodon: [\@augustunderground](https://fosstodon.org/@augustunderground)  
+matrix: @augustunderground:matrix.org
 
 <br>
 <object type="text/html" width=600 height=350 data="rsc/unix.html"></object>
@@ -48,18 +43,3 @@ matrix: @augustunderground:matrix.org<br>
 [E&D](https://www.electronics-and-drives.de/)
 [LinkedIn](https://www.linkedin.com/in/yannick-uhlmann-b57024170/)
 [Resume](./cv.html)
-
-
-<footer>
-    <table class="footer">
-        <tr>
-            <td align="left">v0.0.1</td>
-            <td align="center">2021-05-15</td>
-            <td align="right">
-                <a href="./index.html">
-                    AugustUnderground
-                </a>
-            </td>
-        </tr>
-    </table>
-</footer>

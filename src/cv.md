@@ -1,10 +1,5 @@
 ---
 title: CV - Yannick Uhlmann
-header-includes:
-    <meta name="description" content="A Cognitive Dissident."/>
-    <meta name="author" content="augustunderground"/>
-    <meta name="keywords" content="personal page"/>
-    <link rel="shortcut icon" type="image/jpg" href="rsc/penta.ico"/>
 ---
 
 ### education
@@ -74,17 +69,3 @@ Machine Learning, Analog Circuit Design Automation
 [Home](./index.html)
 [E&D](https://www.electronics-and-drives.de/)
 [LinkedIn](https://www.linkedin.com/in/yannick-uhlmann-b57024170/)
-
-<footer>
-    <table class="footer">
-        <tr>
-            <td align="left">v0.0.1</td>
-            <td align="center">2021-05-15</td>
-            <td align="right">
-                <a href="./index.html">
-                    AugustUnderground
-                </a>
-            </td>
-        </tr>
-    </table>
-</footer>
