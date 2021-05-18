@@ -53,6 +53,10 @@ July 2019
 :   _"A Generic Procedural Generator for Sizing of Analog Integrated Circuits"_ 
 at PRIME 2019 [DOI](http://dx.doi.org/10.1109/PRIME.2019.8787743).
 
+May 2019
+:   _"SPAM -- A SKILL Package Management System"_ 
+at CDNLive EMEA 2019 - Academic Track.
+
 May 2018
 :   _"Visual Programming Environment for Cadence SKILL"_ 
 at CDNLive 2018 - Academic Track.
