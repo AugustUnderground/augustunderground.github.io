@@ -32,7 +32,7 @@ November 2016 - March 2017
 Electronic Design Automation research group.
 
 November 2014 - March 2015
-:   Projekt Paper at University of Applied Sciences Esslingen:
+:   Term Paper Project at University of Applied Sciences Esslingen:
 _"Entwicklung einer C++-App zur Steuering von HomeMatic-Geräten für die Hausautomatisierung"_ 
 (Implementation of a C++ app to control of HomeMatic devices for home automation)
 
