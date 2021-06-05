@@ -3,7 +3,7 @@ title: AugustUnderground
 ---
 
 <div class="notice">
--- Cognitive dissident or mental prolapse, you be the judge.  --
+Cognitive dissident or mental prolapse, you be the judge.
 </div>
 
 > that was the big revelation to me ... when I finally understood that the half
