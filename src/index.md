@@ -2,16 +2,10 @@
 title: AugustUnderground
 ---
 
-<div class="notice">
--- cognitive dissident or mental prolapse, who knows. --
-</div>
+> Object oriented programs are offered as alternatives to correct ones.
 
-> that was the big revelation to me ... when I finally understood that the half
-> page of code on the bottom of page 13 of the Lisp 1.5 manual was Lisp in
-> itself. These were "Maxwell's Equations of Software!" This is the whole
-> world of programming in a few lines that I can put my hand over.
+— _Edsger W. Dijkstra_
 
-_-- Alan Kay_
 
 ### the incoherent codings of a mad man
 
@@ -24,7 +18,8 @@ _-- Alan Kay_
 ### about
 
 PhD student at <a href="https://www.electronics-and-drives.de/">E&amp;D</a> 
-working on machine learning methods for EDA. Free software and Unix enthusiast.
+working on machine learning methods for EDA. Free software, Unix and Functional
+Programming enthusiast.
 
 ### contact
 
