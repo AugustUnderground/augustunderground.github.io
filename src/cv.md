@@ -47,11 +47,13 @@ CAN bus message dissector for readout of elevator controllers.
 
 July 2021
 :   _"Machine Learning Based Procedural Circuit Sizing and DC Operating
-Point Prediction"_ at SMACD 2021 [DOI]().
+Point Prediction"_ at SMACD 2021 
+[IEEE](https://ieeexplore.ieee.org/document/9547948).
 
 July 2019
 :   _"A Generic Procedural Generator for Sizing of Analog Integrated Circuits"_ 
-at PRIME 2019 [DOI](http://dx.doi.org/10.1109/PRIME.2019.8787743).
+at PRIME 2019 [IEEE](https://ieeexplore.ieee.org/document/8787743) 
+[DOI](http://dx.doi.org/10.1109/PRIME.2019.8787743).
 
 May 2019
 :   _"SPAM -- A SKILL Package Management System"_ 
