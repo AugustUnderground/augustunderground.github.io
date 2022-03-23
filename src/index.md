@@ -25,7 +25,7 @@ Programming enthusiast.
 
 Yannick Uhlmann  
 Reutlingen, Germany  
-mail: [augustunderground@pm.me](mailto:augustunderground@protonmail.com)  
+mail: [augustunderground@getgoogleoff.me](mailto:augustunderground@getgoogleoff.me)  
 mastodon: [\@augustunderground](https://fosstodon.org/@augustunderground)  
 matrix: @augustunderground:matrix.org
 
