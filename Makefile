@@ -7,7 +7,6 @@ TARGETS := $(patsubst $(SRC)/%.md, $(TGT)/%.html, $(SOURCES))
 
 website: $(TARGETS)
 
-
 $(TGT)/%.html: $(SRC)/%.md
 	pandoc -s $< \
 		   --include-in-header $(RSC)/head.html \
