@@ -45,6 +45,11 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+Septermber 2022
+:   _"Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical
+Design Space and Sparse Rewards"_ at MLCAD 2022
+[ACM](https://dl.acm.org/doi/10.1145/3551901.3556474)
+
 July 2021
 :   _"Machine Learning Based Procedural Circuit Sizing and DC Operating
 Point Prediction"_ at SMACD 2021 

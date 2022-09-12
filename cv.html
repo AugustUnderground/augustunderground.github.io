@@ -8,20 +8,25 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="rsc/style.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
   <meta name="description" content="A Cognitive Dissident."/>
   <meta name="author" content="augustunderground"/>
   <meta name="keywords" content="personal page"/>
   <link rel="shortcut icon" type="image/jpg" href="rsc/penta.ico"/>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -30,58 +35,98 @@
 <h3 id="education">education</h3>
 <dl>
 <dt>2018 - present</dt>
-<dd>PhD student at E&amp;D (Reutlingen University) in the Electronic Design Automation research group under Professor Scheible.
+<dd>
+PhD student at E&amp;D (Reutlingen University) in the Electronic Design
+Automation research group under Professor Scheible.
 </dd>
 <dt>October 2017</dt>
-<dd>Master of Science (M.Sc) in Power and Micro Electronics. Thesis at Robert Bosch Center for Power Electronics (now E&amp;D): <em>“Concepts for Visual Input of Expert Knowledge on Procedural IC Sizing”</em>
+<dd>
+Master of Science (M.Sc) in Power and Micro Electronics. Thesis at
+Robert Bosch Center for Power Electronics (now E&amp;D): <em>“Concepts
+for Visual Input of Expert Knowledge on Procedural IC Sizing”</em>
 </dd>
 <dt>2015 - 2017</dt>
-<dd>Power and Micro electronics at Reutlingen University.
+<dd>
+Power and Micro electronics at Reutlingen University.
 </dd>
 <dt>August 2015</dt>
-<dd>Bachelor of Engineering (B.Eng) in Computer Engineering. Thesis at Eberspächer Electronics: <em>“Implementierung und Aufbau eines Testsystems für CAN und FlexRay Interfaces”</em> (Implementation and Setup of a test system for CAN and FlexRay interfaces)
+<dd>
+Bachelor of Engineering (B.Eng) in Computer Engineering. Thesis at
+Eberspächer Electronics: <em>“Implementierung und Aufbau eines
+Testsystems für CAN und FlexRay Interfaces”</em> (Implementation and
+Setup of a test system for CAN and FlexRay interfaces)
 </dd>
 <dt>2010 - 2015</dt>
-<dd>Computer Engineering at University of Applied Sciences Esslingen.
+<dd>
+Computer Engineering at University of Applied Sciences Esslingen.
 </dd>
 </dl>
 <h3 id="experience">experience</h3>
 <dl>
 <dt>November 2016 - March 2017</dt>
-<dd>Research Assistant at Robert Bosch Center for Power Electronics in the Electronic Design Automation research group.
+<dd>
+Research Assistant at Robert Bosch Center for Power Electronics in the
+Electronic Design Automation research group.
 </dd>
 <dt>November 2014 - March 2015</dt>
-<dd>Term Paper Project at University of Applied Sciences Esslingen: <em>“Entwicklung einer C++-App zur Steuering von HomeMatic-Geräten für die Hausautomatisierung”</em> (Implementation of a C++ app to control of HomeMatic devices for home automation)
+<dd>
+Term Paper Project at University of Applied Sciences Esslingen:
+<em>“Entwicklung einer C++-App zur Steuering von HomeMatic-Geräten für
+die Hausautomatisierung”</em> (Implementation of a C++ app to control of
+HomeMatic devices for home automation)
 </dd>
 <dt>February - June 2014</dt>
-<dd>Semester abroad at Hanyang University in Seoul, South Korea.
+<dd>
+Semester abroad at Hanyang University in Seoul, South Korea.
 </dd>
 <dt>August 2013 - January 2014</dt>
-<dd>Internship at Thyssen-Krupp Elevator Innovations GmbH. CAN bus message dissector for readout of elevator controllers.
+<dd>
+Internship at Thyssen-Krupp Elevator Innovations GmbH. CAN bus message
+dissector for readout of elevator controllers.
 </dd>
 </dl>
 <h3 id="publications-and-awards">publications and awards</h3>
 <dl>
+<dt>Septermber 2022</dt>
+<dd>
+<em>“Deep Reinforcement Learning for Analog Circuit Sizing with an
+Electrical Design Space and Sparse Rewards”</em> at MLCAD 2022 <a
+href="https://dl.acm.org/doi/10.1145/3551901.3556474">ACM</a>
+</dd>
 <dt>July 2021</dt>
-<dd><em>“Machine Learning Based Procedural Circuit Sizing and DC Operating Point Prediction”</em> at SMACD 2021 <a href="https://ieeexplore.ieee.org/document/9547948">IEEE</a>.
+<dd>
+<em>“Machine Learning Based Procedural Circuit Sizing and DC Operating
+Point Prediction”</em> at SMACD 2021 <a
+href="https://ieeexplore.ieee.org/document/9547948">IEEE</a>.
 </dd>
 <dt>July 2019</dt>
-<dd><em>“A Generic Procedural Generator for Sizing of Analog Integrated Circuits”</em> at PRIME 2019 <a href="https://ieeexplore.ieee.org/document/8787743">IEEE</a> <a href="http://dx.doi.org/10.1109/PRIME.2019.8787743">DOI</a>.
+<dd>
+<em>“A Generic Procedural Generator for Sizing of Analog Integrated
+Circuits”</em> at PRIME 2019 <a
+href="https://ieeexplore.ieee.org/document/8787743">IEEE</a> <a
+href="http://dx.doi.org/10.1109/PRIME.2019.8787743">DOI</a>.
 </dd>
 <dt>May 2019</dt>
-<dd><em>“SPAM – A SKILL Package Management System”</em> at CDNLive EMEA 2019 - Academic Track.
+<dd>
+<em>“SPAM – A SKILL Package Management System”</em> at CDNLive EMEA 2019
+- Academic Track.
 </dd>
 <dt>May 2018</dt>
-<dd><em>“Visual Programming Environment for Cadence SKILL”</em> at CDNLive 2018 - Academic Track.
+<dd>
+<em>“Visual Programming Environment for Cadence SKILL”</em> at CDNLive
+2018 - Academic Track.
 </dd>
 <dt>May 2018</dt>
-<dd><em>Best Thesis Award</em> from Cadence at CDNLive EMEA 2018.
+<dd>
+<em>Best Thesis Award</em> from Cadence at CDNLive EMEA 2018.
 </dd>
 </dl>
 <h3 id="research-interest">research interest</h3>
 <p>Machine Learning, Analog Circuit Design Automation</p>
 <h3 id="see-also">see also</h3>
-<p><a href="./index.html">Home</a> <a href="https://www.electronics-and-drives.de/">E&amp;D</a> <a href="https://www.linkedin.com/in/yannick-uhlmann-b57024170/">LinkedIn</a></p>
+<p><a href="./index.html">Home</a> <a
+href="https://www.electronics-and-drives.de/">E&amp;D</a> <a
+href="https://www.linkedin.com/in/yannick-uhlmann-b57024170/">LinkedIn</a></p>
 <footer>
     <table class="footer">
         <tr>
