@@ -45,6 +45,12 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+January 2023
+:   _"Procedural- and Reinforcement-Learning-Based Automation Methods for
+Analog Integrated Circuit Sizing in the Electrical Design Space"_ in Advanced
+Design Techniques and EDA Methodologies for Analog, RF and MM-Wave Circuit
+Design [MDPI](https://www.mdpi.com/2079-9292/12/2/302)
+
 November 2022
 :   _"Reinforcement Learning Environment for Analog IC Sizing based on Cadence Spectre"_ 
 at CadenceLive EMEA 2022 - Academic Track.
