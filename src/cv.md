@@ -55,7 +55,7 @@ November 2022
 :   _"Reinforcement Learning Environment for Analog IC Sizing based on Cadence Spectre"_ 
 at CadenceLive EMEA 2022 - Academic Track.
 
-Septermber 2022
+September 2022
 :   _"Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical
 Design Space and Sparse Rewards"_ at MLCAD 2022
 [ACM](https://dl.acm.org/doi/10.1145/3551901.3556474)
