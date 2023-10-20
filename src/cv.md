@@ -45,6 +45,15 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+October 2023
+:   _"Integration of Spectre into an ML Pipeline for Modeling Analog Circuits"_ 
+at CadenceLive Europe 2023 - Academic Track.
+
+September 2023
+:   _"Differentiable Neural Network Surrogate Models for gm/ID-based Analog IC
+Sizing Optimization"_ at MLCAD 2023
+[IEEE]()
+
 January 2023
 :   _"Procedural- and Reinforcement-Learning-Based Automation Methods for
 Analog Integrated Circuit Sizing in the Electrical Design Space"_ in Advanced

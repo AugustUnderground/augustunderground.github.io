@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -87,6 +90,16 @@ dissector for readout of elevator controllers.
 </dl>
 <h3 id="publications-and-awards">publications and awards</h3>
 <dl>
+<dt>October 2023</dt>
+<dd>
+<em>“Integration of Spectre into an ML Pipeline for Modeling Analog
+Circuits”</em> at CadenceLive Europe 2023 - Academic Track.
+</dd>
+<dt>September 2023</dt>
+<dd>
+<em>“Differentiable Neural Network Surrogate Models for gm/ID-based
+Analog IC Sizing Optimization”</em> at MLCAD 2023 <a href="">IEEE</a>
+</dd>
 <dt>January 2023</dt>
 <dd>
 <em>“Procedural- and Reinforcement-Learning-Based Automation Methods for
