@@ -31,7 +31,7 @@ mastodon: [\@augustunderground](https://fosstodon.org/@augustunderground)
 matrix: @augustunderground:matrix.org
 
 <br>
-<object type="text/html" width=650 height=350 data="rsc/unix.html"></object>
+<object type="text/html" width=660 height=360 data="rsc/unix.html"></object>
 <br> 
 
 ### see also

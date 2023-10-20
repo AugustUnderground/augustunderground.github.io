@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -59,7 +62,7 @@ href="https://fosstodon.org/@augustunderground">@augustunderground</a><br />
 matrix: <span class="citation"
 data-cites="augustunderground:matrix.org">@augustunderground:matrix.org</span></p>
 <p><br>
-<object type="text/html" width=650 height=350 data="rsc/unix.html"></object>
+<object type="text/html" width=660 height=360 data="rsc/unix.html"></object>
 <br></p>
 <h3 id="see-also">see also</h3>
 <p><a href="https://www.electronics-and-drives.de/">E&amp;D</a> <a
