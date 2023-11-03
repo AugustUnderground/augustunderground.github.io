@@ -52,7 +52,7 @@ at CadenceLive Europe 2023 - Academic Track.
 September 2023
 :   _"Differentiable Neural Network Surrogate Models for gm/ID-based Analog IC
 Sizing Optimization"_ at MLCAD 2023
-[IEEE]()
+[IEEE](https://ieeexplore.ieee.org/document/10299834)
 
 January 2023
 :   _"Procedural- and Reinforcement-Learning-Based Automation Methods for
