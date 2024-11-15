@@ -45,6 +45,16 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+November 2024
+:   _"Sensorless Robust Anomaly Detection of Roller Chain Systems based on
+Motor Driver Data and Deep Weighted KNN"_ in Transactions on Instrumentation
+and Measurement [IEEE](https://ieeexplore.ieee.org/document/10752646)
+
+June 2024
+:   _"Integrating Multiple Knowledge-based Automation Methodologies into the
+A/MS IC Design Flow"_ at SMACD 2024
+[IEEE](https://ieeexplore.ieee.org/document/10745465)
+
 October 2023
 :   _"Integration of Spectre into an ML Pipeline for Modeling Analog Circuits"_ 
 at CadenceLive Europe 2023 - Academic Track.
@@ -99,3 +109,4 @@ Machine Learning, Analog Circuit Design Automation
 [Home](./index.html)
 [E&D](https://www.electronics-and-drives.de/)
 [LinkedIn](https://www.linkedin.com/in/yannick-uhlmann-b57024170/)
+[ResearchGate](https://www.researchgate.net/profile/yannick-uhlmann/)
