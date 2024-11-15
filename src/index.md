@@ -18,9 +18,10 @@ title: AugustUnderground
 
 ### about
 
-PhD student at <a href="https://www.electronics-and-drives.de/">E&amp;D</a> 
-working on machine learning methods for EDA. Neovim cultist, Unix enthusiast,
-Haskell fanatic, and anti-systemd extremist.
+PhD student at the University of Stuttgart, at <a
+href="https://www.electronics-and-drives.de/">E&amp;D</a>, working on machine
+learning methods for EDA. Neovim cultist, Unix enthusiast, Haskell fanatic, and
+anti-systemd extremist.
 
 ### contact
 
@@ -28,8 +29,8 @@ Yannick Uhlmann
 Reutlingen, Germany  
 mail: [augustunderground@getgoogleoff.me](mailto:augustunderground@getgoogleoff.me)  
 mastodon: [\@augustunderground](https://fosstodon.org/@augustunderground)  
-matrix: @augustunderground:matrix.org
-Publications: [ResearchGate](https://www.researchgate.net/profile/yannick-uhlmann/)
+matrix: @augustunderground:matrix.org  
+Publications: [ResearchGate](https://www.researchgate.net/profile/yannick-uhlmann/)  
 
 <br>
 <object type="text/html" width=660 height=400 data="rsc/unix.html"></object>
