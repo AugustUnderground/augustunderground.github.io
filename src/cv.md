@@ -5,12 +5,12 @@ title: CV - Yannick Uhlmann
 ### education
 
 2018 - present
-:   PhD student at E&D (Reutlingen University) in the Electronic Design 
-Automation research group under Professor Scheible.
+:   PhD student at the University of Stuttgart, working under advisor Prof.
+Dr.-Ing. Scheible at E&D in the Electronic Design Automation research group.
 
 October 2017
 :   Master of Science (M.Sc) in Power and Micro Electronics. Thesis at
-Robert Bosch Center for Power Electronics (now E&D): 
+Robert Bosch Center for Power Electronics (now Electronics & Drives): 
 _"Concepts for Visual Input of Expert Knowledge on Procedural IC Sizing"_
 
 2015 - 2017
