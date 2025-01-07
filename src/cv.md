@@ -46,6 +46,10 @@ CAN bus message dissector for readout of elevator controllers.
 ### publications and awards
 
 November 2024
+:   _"A Review of Design Methodologies for Power Electronics and the Bridge to
+VLSI EDA"_ at DMC 2024 [IEEE](https://ieeexplore.ieee.org/document/10812175)
+
+November 2024
 :   _"Sensorless Robust Anomaly Detection of Roller Chain Systems based on
 Motor Driver Data and Deep Weighted KNN"_ in Transactions on Instrumentation
 and Measurement [IEEE](https://ieeexplore.ieee.org/document/10752646)
