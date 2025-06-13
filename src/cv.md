@@ -45,6 +45,11 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+June 2025
+:   _"Interactive Visual Performance Space Exploration of Operational Amplifiers
+with Differentiable Neural Network Surrogate Models"_ in TODAES 2025
+[ACM](https://dl.acm.org/doi/10.1145/3744245)
+
 November 2024
 :   _"A Review of Design Methodologies for Power Electronics and the Bridge to
 VLSI EDA"_ at DMC 2024 [IEEE](https://ieeexplore.ieee.org/document/10812175)
