@@ -45,6 +45,11 @@ CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
 
+July 2026
+:   _"Uncertainty-aware sensorless anomaly detection using a reliable indicator
+from position-guided multi-step deep decomposition network"_ in RESS 2026
+[ELSEVIER](https://doi.org/10.1016/j.ress.2026.112258)
+
 June 2025
 :   _"Interactive Visual Performance Space Exploration of Operational Amplifiers
 with Differentiable Neural Network Surrogate Models"_ in TODAES 2025
