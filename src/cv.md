@@ -4,7 +4,7 @@ title: CV - Yannick Uhlmann
 
 ### education
 
-2018 - present
+2018 - 2026
 :   PhD student at the University of Stuttgart, working under advisor Prof.
 Dr.-Ing. Scheible at E&D in the Electronic Design Automation research group.
 
@@ -27,6 +27,9 @@ _"Implementierung und Aufbau eines Testsystems für CAN und FlexRay Interfaces"_
 
 ### experience
 
+April 2025 - present
+:   Senior Engineer for Analog IC Layout Automation at Infineon Technologies AG.
+
 November 2016 - March 2017
 :   Research Assistant at Robert Bosch Center for Power Electronics in the
 Electronic Design Automation research group.
@@ -44,6 +47,11 @@ August 2013 - January 2014
 CAN bus message dissector for readout of elevator controllers.
 
 ### publications and awards
+
+July 2026
+:   _"Sensorless-Based Anomaly Detection and Degradation Assessment of Roller
+Chain Systems"_ in WCCM 2024
+[Springer](https://link.springer.com/chapter/10.1007/978-981-92-0998-9_11)
 
 July 2026
 :   _"Uncertainty-aware sensorless anomaly detection using a reliable indicator
