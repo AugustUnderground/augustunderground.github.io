@@ -28,7 +28,8 @@ _"Implementierung und Aufbau eines Testsystems für CAN und FlexRay Interfaces"_
 ### experience
 
 April 2025 - present
-:   Senior Engineer for Analog IC Layout Automation at Infineon Technologies AG.
+:   Senior Staff Engineer for Analog IC Layout Automation at Infineon
+Technologies AG.
 
 November 2016 - March 2017
 :   Research Assistant at Robert Bosch Center for Power Electronics in the
@@ -124,11 +125,10 @@ May 2018
 
 ### research interest
 
-Machine Learning, Analog Circuit Design Automation
+Analog Circuit Design Automation, Machine Learning
 
 ### see also
 
 [Home](./index.html)
-[E&D](https://www.electronics-and-drives.de/)
 [LinkedIn](https://www.linkedin.com/in/yannick-uhlmann-b57024170/)
 [ResearchGate](https://www.researchgate.net/profile/yannick-uhlmann/)
