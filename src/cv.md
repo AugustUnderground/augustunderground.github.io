@@ -51,32 +51,32 @@ CAN bus message dissector for readout of elevator controllers.
 
 July 2026
 :   _"Sensorless-Based Anomaly Detection and Degradation Assessment of Roller
-Chain Systems"_ in WCCM 2024
-[Springer](https://link.springer.com/chapter/10.1007/978-981-92-0998-9_11)
+Chain Systems"_ at WCCM 2024
+[Springer](https://link.springer.com/chapter/10.1007/978-981-92-0998-9_11).
 
 July 2026
 :   _"Uncertainty-aware sensorless anomaly detection using a reliable indicator
 from position-guided multi-step deep decomposition network"_ in RESS 2026
-[ELSEVIER](https://doi.org/10.1016/j.ress.2026.112258)
+[ELSEVIER](https://doi.org/10.1016/j.ress.2026.112258).
 
 June 2025
 :   _"Interactive Visual Performance Space Exploration of Operational Amplifiers
 with Differentiable Neural Network Surrogate Models"_ in TODAES 2025
-[ACM](https://dl.acm.org/doi/10.1145/3744245)
+[ACM](https://dl.acm.org/doi/10.1145/3744245).
 
 November 2024
 :   _"A Review of Design Methodologies for Power Electronics and the Bridge to
-VLSI EDA"_ at DMC 2024 [IEEE](https://ieeexplore.ieee.org/document/10812175)
+VLSI EDA"_ at DMC 2024 [IEEE](https://ieeexplore.ieee.org/document/10812175).
 
 November 2024
 :   _"Sensorless Robust Anomaly Detection of Roller Chain Systems based on
 Motor Driver Data and Deep Weighted KNN"_ in Transactions on Instrumentation
-and Measurement [IEEE](https://ieeexplore.ieee.org/document/10752646)
+and Measurement [IEEE](https://ieeexplore.ieee.org/document/10752646).
 
 June 2024
 :   _"Integrating Multiple Knowledge-based Automation Methodologies into the
 A/MS IC Design Flow"_ at SMACD 2024
-[IEEE](https://ieeexplore.ieee.org/document/10745465)
+[IEEE](https://ieeexplore.ieee.org/document/10745465).
 
 October 2023
 :   _"Integration of Spectre into an ML Pipeline for Modeling Analog Circuits"_ 
@@ -85,32 +85,31 @@ at CadenceLive Europe 2023 - Academic Track.
 September 2023
 :   _"Differentiable Neural Network Surrogate Models for gm/ID-based Analog IC
 Sizing Optimization"_ at MLCAD 2023
-[IEEE](https://ieeexplore.ieee.org/document/10299834)
+[IEEE](https://ieeexplore.ieee.org/document/10299834).
 
 January 2023
 :   _"Procedural- and Reinforcement-Learning-Based Automation Methods for
 Analog Integrated Circuit Sizing in the Electrical Design Space"_ in Advanced
 Design Techniques and EDA Methodologies for Analog, RF and MM-Wave Circuit
-Design [MDPI](https://www.mdpi.com/2079-9292/12/2/302)
+Design [MDPI](https://www.mdpi.com/2079-9292/12/2/302).
 
 November 2022
-:   _"Reinforcement Learning Environment for Analog IC Sizing based on Cadence Spectre"_ 
-at CadenceLive EMEA 2022 - Academic Track.
+:   _"Reinforcement Learning Environment for Analog IC Sizing based on Cadence
+Spectre"_ at CadenceLive EMEA 2022 - Academic Track.
 
 September 2022
 :   _"Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical
 Design Space and Sparse Rewards"_ at MLCAD 2022
-[ACM](https://dl.acm.org/doi/10.1145/3551901.3556474)
+[ACM](https://dl.acm.org/doi/10.1145/3551901.3556474).
 
 July 2021
 :   _"Machine Learning Based Procedural Circuit Sizing and DC Operating
-Point Prediction"_ at SMACD 2021 
+Point Prediction"_ at SMACD 2021
 [IEEE](https://ieeexplore.ieee.org/document/9547948).
 
 July 2019
 :   _"A Generic Procedural Generator for Sizing of Analog Integrated Circuits"_ 
-at PRIME 2019 [IEEE](https://ieeexplore.ieee.org/document/8787743) 
-[DOI](http://dx.doi.org/10.1109/PRIME.2019.8787743).
+at PRIME 2019 [IEEE](https://ieeexplore.ieee.org/document/8787743).
 
 May 2019
 :   _"SPAM -- A SKILL Package Management System"_ 
